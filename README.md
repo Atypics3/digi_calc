@@ -17,13 +17,13 @@ This project consists of making a digital calculator with a GUI using Python and
 
 ## Setup
 * Click [here](https://www.python.org/downloads/) to download Python:
-![Screenshot](screenshot.png)
+![Screenshot](docs/Capture.PNG)
 * Once at the installation launcher, click ``"Install Now"`` and let the installation finish. The launcher should show this afterwards:
-![Screenshot](screenshot.png)
+![Screenshot](docs/Capture1.PNG)
 * Once completed, go to your command prompt and type in ``"py"`` to make sure Python's installed:
-![Screenshot](screenshot.png)
+![Screenshot](docs/Capture2.PNG)
 * To check if tkinter is installed, go to your command prompt and type in ``py -m tkinter``: 
-![Screenshot](screenshot.png)
+![Screenshot](docs/Capture3.PNG)
 * To start, either use Python's built-in [IDLE](https://docs.python.org/3/library/idle.html) or download a IDE.
 
 
