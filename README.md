@@ -24,7 +24,7 @@ This project consists of making a digital calculator with a GUI using Python and
 ![](imgs/Capture1.PNG)
 <br />
 
-3. Once completed, go to your command prompt and type in ``"py"`` to make sure Python's installed:
+3. Once completed, go to your command prompt and type in ``py`` to make sure Python's installed:
 ![](imgs/Capture2.PNG) 
 <br />
 
