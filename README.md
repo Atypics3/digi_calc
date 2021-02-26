@@ -32,7 +32,7 @@ This project consists of making a digital calculator with a GUI using Python and
 ![](imgs/Capture3.PNG) 
 <br />
 
-5. To start, either use Python's built-in [IDLE](https://docs.python.org/3/library/idle.html) or download a IDE.
+5. To start, either use Python's built-in [IDLE](https://docs.python.org/3/library/idle.html) or download a [IDE](https://www.guru99.com/python-ide-code-editor.html) (Integrated Development Environment).
 
 ## Sources
 * https://pyshark.com/basic-gui-calculator-in-python/
